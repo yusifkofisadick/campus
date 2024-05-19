@@ -1,0 +1,2 @@
+# campus
+about educational information
